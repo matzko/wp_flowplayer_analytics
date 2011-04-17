@@ -1,4 +1,7 @@
 <?php
+/*
+based on http://flowplayer.org/demos/events/google-analytics.html
+*/
 
 class Flowplayer_GA_Control
 {
